@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><XnView_script version="1.0" name="Export200New">
+    <Resize mode="0" width="200" height="200" unit="0" ratio="true" orientation="false" enlarge="0" resample="7" gamma_correct="false"/>
+    <Output folder="C:/Documenti/__00 Service/_Beta/Attrezzatura/IMG/nuovi/jpg" filename="{Filename}_T" case="0" startIndex="1" format="JPEG">
+        <Options overwrite="1" orgDate="false" keepMeta="false" keepICC="false" keepFolder="false" checkFilesize="false" keepParentFolder="false" keepExtension="false" delOrg="false" multipage="false" allPages="false" openExplorer="false" beep="true" openBrowser="false" clearItems="false"/>
+        <JPEG useJPEGli="false" quality="85" progressive="false" optimizeHuffman="false" rebuildThumb="false" orgQuality="false" DCTMethod="2" subSampling="2" smoothFactor="0"/>
+    </Output>
+</XnView_script>
